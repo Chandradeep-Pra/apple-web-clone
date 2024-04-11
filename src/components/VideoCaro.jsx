@@ -232,3 +232,6 @@ const VideoCaro = () => {
 };
 
 export default VideoCaro;
+
+
+//https://models.readyplayer.me/661598dbae4a3d682a34bd69.glb
